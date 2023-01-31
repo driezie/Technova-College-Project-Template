@@ -55,5 +55,22 @@ Er zijn nog geen bewerkingen
 
 </details>
 
-
+## Project inladen op Visual studio code
+Om een FTP aan te maken moet u eerst [ftp-simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple) instaleren voordat je door gaat. Als je deze geinstaleerd hebt moet u op F1 drukken in intypen FTP - Config. Vul dan de volgende data in:
+```  
+{
+   "name": "Technova College - Project naam",
+   "host": "",
+   "port": 21,
+   "type": "ftp",
+   "username": "",
+   "password": "",
+   "path": "/",
+   "autosave": true,
+   "confirm": false
+},
+  
+  ```
+  
+  Als u dit heeft opgeslagen kunt u de bestand ophalen via F1 en dan Remote Directory te openen. Als u erop drukt en er komt niks te staan moet u kijken of de config data goed is opgeslagen.
 
