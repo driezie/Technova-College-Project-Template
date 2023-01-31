@@ -69,7 +69,6 @@ Om een FTP aan te maken moet u eerst [ftp-simple](https://marketplace.visualstud
    "autosave": true,
    "confirm": false
 },
-  
   ```
   
   Als u dit heeft opgeslagen kunt u de bestand ophalen via F1 en dan Remote Directory te openen. Als u erop drukt en er komt niks te staan moet u kijken of de config data goed is opgeslagen.
